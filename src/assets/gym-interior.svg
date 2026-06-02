@@ -1,0 +1,11 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="900" fill="#11131B"/>
+  <path d="M0 585L900 250V900H0V585Z" fill="#EF233C" fill-opacity=".22"/>
+  <rect x="125" y="188" width="650" height="420" rx="38" fill="#20232F"/>
+  <rect x="170" y="238" width="560" height="36" rx="18" fill="#EF233C"/>
+  <rect x="190" y="330" width="110" height="210" rx="16" fill="#383D4F"/>
+  <rect x="330" y="330" width="110" height="210" rx="16" fill="#383D4F"/>
+  <rect x="470" y="330" width="110" height="210" rx="16" fill="#383D4F"/>
+  <rect x="610" y="330" width="110" height="210" rx="16" fill="#383D4F"/>
+  <text x="80" y="770" fill="white" font-family="Arial" font-size="64" font-weight="800">GYM INTERIOR</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="900" fill="#13151E"/>
+  <path d="M0 0H900V420C705 350 518 370 338 470C208 542 96 570 0 552V0Z" fill="#EF233C" fill-opacity=".2"/>
+  <circle cx="450" cy="260" r="82" fill="#EF233C"/>
+  <path d="M340 680L405 415H500L570 680" stroke="white" stroke-width="48" stroke-linecap="round"/>
+  <path d="M285 440H615" stroke="white" stroke-width="42" stroke-linecap="round"/>
+  <text x="82" y="790" fill="white" font-family="Arial" font-size="60" font-weight="800">WORKOUT SESSION</text>
+</svg>

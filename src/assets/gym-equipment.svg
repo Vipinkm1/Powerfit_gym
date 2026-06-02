@@ -1,0 +1,10 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="900" fill="#0B0C11"/>
+  <circle cx="690" cy="210" r="180" fill="#EF233C" fill-opacity=".28"/>
+  <path d="M155 465H745" stroke="#F7F7FB" stroke-width="34" stroke-linecap="round"/>
+  <rect x="115" y="350" width="70" height="230" rx="20" fill="#EF233C"/>
+  <rect x="715" y="350" width="70" height="230" rx="20" fill="#EF233C"/>
+  <rect x="225" y="390" width="55" height="150" rx="18" fill="#3B3F4F"/>
+  <rect x="620" y="390" width="55" height="150" rx="18" fill="#3B3F4F"/>
+  <text x="88" y="762" fill="white" font-family="Arial" font-size="64" font-weight="800">EQUIPMENT</text>
+</svg>

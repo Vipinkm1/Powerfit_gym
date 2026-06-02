@@ -1,0 +1,11 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="900" fill="#090A0F"/>
+  <rect x="90" y="155" width="310" height="530" rx="34" fill="#222632"/>
+  <rect x="500" y="155" width="310" height="530" rx="34" fill="#222632"/>
+  <path d="M450 300L520 370H480V530H420V370H380L450 300Z" fill="#EF233C"/>
+  <circle cx="245" cy="285" r="62" fill="#6B7280"/>
+  <path d="M190 575C195 445 295 445 300 575" stroke="#6B7280" stroke-width="44" stroke-linecap="round"/>
+  <circle cx="655" cy="285" r="62" fill="#EF233C"/>
+  <path d="M585 575C600 420 710 420 725 575" stroke="#EF233C" stroke-width="52" stroke-linecap="round"/>
+  <text x="98" y="790" fill="white" font-family="Arial" font-size="56" font-weight="800">TRANSFORMATION</text>
+</svg>
