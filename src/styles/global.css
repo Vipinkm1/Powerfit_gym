@@ -826,6 +826,41 @@ textarea:focus {
   gap: 14px;
 }
 
+.footer a.footer__social {
+  align-items: center;
+  border: 0;
+  border-radius: 50%;
+  display: inline-flex;
+  height: 46px;
+  justify-content: center;
+  margin: 0;
+  transition: filter 0.25s ease, transform 0.25s ease;
+  width: 46px;
+}
+
+.footer a.footer__social:hover {
+  filter: brightness(1.12);
+  transform: translateY(-3px);
+}
+
+.footer__social--instagram {
+  background: radial-gradient(circle at 30% 110%, #fdf497 0 18%, #fd5949 38%, #d6249f 62%, #285aeb 100%);
+}
+
+.footer__social--facebook {
+  background: #1877f2;
+}
+
+.footer__social--youtube {
+  background: #ff0000;
+}
+
+.footer__social svg {
+  fill: white;
+  height: 24px;
+  width: 24px;
+}
+
 .footer__bottom {
   border-top: 1px solid var(--line);
   margin: 34px auto 0;

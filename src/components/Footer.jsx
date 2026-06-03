@@ -1,3 +1,5 @@
+import { FacebookIcon, InstagramIcon, YoutubeIcon } from './Icons'
+
 const quickLinks = ['Home', 'About', 'Services', 'Plans', 'Gallery', 'Contact']
 
 function Footer() {
@@ -8,9 +10,15 @@ function Footer() {
           <a className="logo" href="#home"><span>PF</span>PowerFit Gym</a>
           <p>Modern local fitness for strength, confidence, and community.</p>
           <div className="footer__socials">
-            <a href="https://instagram.com" target="_blank" rel="noreferrer">Instagram</a>
-            <a href="https://facebook.com" target="_blank" rel="noreferrer">Facebook</a>
-            <a href="https://youtube.com" target="_blank" rel="noreferrer">YouTube</a>
+            <a className="footer__social footer__social--instagram" href="https://instagram.com" target="_blank" rel="noreferrer" aria-label="PowerFit Gym Instagram">
+              <InstagramIcon />
+            </a>
+            <a className="footer__social footer__social--facebook" href="https://facebook.com" target="_blank" rel="noreferrer" aria-label="PowerFit Gym Facebook">
+              <FacebookIcon />
+            </a>
+            <a className="footer__social footer__social--youtube" href="https://youtube.com" target="_blank" rel="noreferrer" aria-label="PowerFit Gym YouTube">
+              <YoutubeIcon />
+            </a>
           </div>
         </div>
         <div>
